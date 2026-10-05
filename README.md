@@ -123,6 +123,7 @@ lovable-clone/
   |- components.json
   |- environment.d.ts
   |- eslint.config.mjs
+  |- index.js
   |- next.config.ts
   |- package.json
   |- pnpm-lock.yaml
@@ -131,6 +132,7 @@ lovable-clone/
   |- prisma.config.ts
   |- tsconfig.json
   |- vercel.ts
+  |- ��@��@8@!
 ```
 <!--- FOLDER_STRUCTURE_END --->
 

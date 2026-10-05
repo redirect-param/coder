@@ -123,7 +123,6 @@ lovable-clone/
   |- components.json
   |- environment.d.ts
   |- eslint.config.mjs
-  |- index.js
   |- next.config.ts
   |- package.json
   |- pnpm-lock.yaml
